@@ -11,6 +11,7 @@ Objectives:
 - When I select the intern option, then I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 - When I decide to finish building my team, then I exit the application, and the HTML is generated
 
-[Click here to view a walkthrough video.](placeholder).
+Usage:
+Clone this repository to your computer, open your command line and install both jest and inquirer packages. Then enter the command "node index" to run the generator.
 
-Here is a screenshot of the completed webpage: 
+[Click here to view a walkthrough video](https://youtu.be/gD2BRRfunoM).
