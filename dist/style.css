@@ -1,0 +1,14 @@
+h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+.card {
+    margin: 10px;
+    padding: 0;
+}
+
+.card-title {
+    background-color: lightblue;
+    padding: 5px 20px;
+}
